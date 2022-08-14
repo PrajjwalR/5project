@@ -20,13 +20,7 @@ max-width: 50px;
     font-weight: bolder;
 }
 
-.some-text1{
-    color: #ce0000;
-    height: 10px;
-    width: 10px;
-    padding: 110px;
-    font-size: xx-large;
-}
+
 #btn{
     color: green;
   height: 40px;
@@ -53,3 +47,22 @@ max-width: 50px;
    background-color: #ce0000;
   }
 
+  .some-text1{
+    color: #ce0000;
+    height: 10px;
+    width: 100px;
+    padding: 110px;
+    font-size: xx-large;
+}
+
+.some-text2{
+    color: blueviolet;
+    position: relative;
+    height: 10px;
+    width: 750px;
+    padding: 110px;
+    font-size: xx-large;
+    left: 500px;
+    bottom: 270px;
+    font-style: italic;
+}
