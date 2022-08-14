@@ -1,0 +1,37 @@
+body{
+   position: relative;
+    background-color: black;
+
+}
+
+.logo{
+max-width: 50px;
+   max-height: 40px; 
+    
+}
+.number{
+    height: 20px;
+    width: 250px;
+    padding: 65px;
+    float: right;
+    font-size: xx-large;
+    color: aliceblue    ;
+    font-style: normal  ;
+    font-weight: bolder;
+}
+
+.some-text1{
+    color: #ce0000;
+    height: 10px;
+    width: 10px;
+    padding: 70px;
+}
+.btn{
+    color: green;
+    padding: 100px;
+    font-size: 23px;
+line-height: 1.1;
+letter-spacing: 0.6em;
+font-weight: 700;
+font-style: normal;
+}
