@@ -24,14 +24,32 @@ max-width: 50px;
     color: #ce0000;
     height: 10px;
     width: 10px;
-    padding: 70px;
+    padding: 110px;
+    font-size: xx-large;
 }
-.btn{
+#btn{
     color: green;
-    padding: 250px;
-    font-size: 23px;
-line-height: 1.1;
-letter-spacing: 0.6em;
-font-weight: 700;
-font-style: normal;
+  height: 40px;
+  padding: 10px;
+  text-align: center;
+  top: 150px;
+  width: 250px;
+     height: 40px;
+ background-color: rgb(6, 153, 104);
+ color: rgb(3, 48, 33);
+ font-weight: bold;
+ border-style: solid;
+ border-width: 2px 2px 2px 2px;
+ border-color: #61CE70;
+ border-radius: 4px 4px 4px 4px;
 }
+.btn1{
+    position: relative;
+      left: 110px;
+      top: 160px;
+     
+  }
+  .btn1:hover{
+   background-color: #ce0000;
+  }
+
