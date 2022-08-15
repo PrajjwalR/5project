@@ -43,8 +43,9 @@ max-width: 50px;
       top: 160px;
      
   }
-  .btn1:hover{
+  .btn:hover{
    background-color: #ce0000;
+   cursor: zoom-in;
   }
 
   .some-text1{
@@ -65,4 +66,12 @@ max-width: 50px;
     left: 500px;
     bottom: 270px;
     font-style: italic;
+}
+
+.frm{
+    color: cyan;
+   position: relative;
+   padding: 50px;
+bottom: 370px;
+left: 691px;
 }
